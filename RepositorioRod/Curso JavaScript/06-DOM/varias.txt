@@ -1,0 +1,227 @@
+MOntironi
+
+para actualizar
+ir a sync
+usuario: proyaut@montironi.com
+clave: Seguridadfuentes2021
+
+usuario:MONTIRONIGR\administrador
+clave:_MarceloAriel_
+
+Para Sql
+usuario:MONTIRONIGR\mtrnadmin
+clave:/M@rc3l0@ri3l/
+
+usuario:MONTIRONIGR\marcelo.fossati
+clave:Sarandunga09_
+
+usuario para 192.168.1.19/21/22/30 
+usuario: tecnom
+clave:$C0N0RD!&_m@/
+
+
+Para MontironiUsados
+para acceder al phpadmin
+
+http://montironiusados.com/phpmyadmin/
+usuario: root
+password: gera1606
+
+
+
+Simetrical
+usuario:mmatias@montironi.com
+clave: Montironi1!
+--------------------
+Afip Kary
+clave:afip41NC41
+--------------------
+Afip mia
+clave:Sarandunga23
+-------------------
+Santander 
+usuario : lito3838
+usuario : lito3939
+usuario : lito4040  20/8/2022
+
+
+clave santander:3643
+clave santander:3644
+clave santander:3645 20/8/2022
+
+Tarjeta Debito
+Clave cajero: 3636  SIT
+o 3636 y VEP (no lo se)
+
+
+Banco Santander Rio
+Cuenta Unica:792-350534/2	
+CBU: 0720792388000035053422	
+ALIAS: NIETA.PERRO.GENIA
+a Nombre: Marcelo Alberto Fossati
+DNI: 12976868
+
+--------------------
+Iplan
+
+Red: IPLAN-Fossati/5G
+clave:sarandunga
+---------------
+fibertel wifi Teodoro
+red : Fossati WIFI
+clave: 00412976868
+---------------------
+Panda
+
+ACTIVATION CODE PANDA
+6RWLLT-120178525
+-------------------
+Visa home
+clave de visahome 3939worm
+usuario: Lito3636
+---------------------------
+Note Toshiba
+worm3030
+
+--------------------------
+Gmail
+fossatimarcelo@gmail.com
+clave:worm3030
+
+
+cuenta de correo gmail alternativa
+litocosta36@gmail.com
+clave:worm3030
+
+conordremoto@gmail.com
+clave:PaChanga15
+
+nombre: lito apellido: costa
+litocostagrande@gmail.com
+clave:worm3030k
+------------------------
+Hispavista
+litocosta@hispavista.com 
+clave: worm0707
+--------------------------
+
+
+Banco Frances
+
+0170118640000000887690 ca 118-8876/9 
+
+CBU:	0170118640000000887690
+Alias:	SOPA.MONO.RUINA
+Titular de la cuenta:	FOSSATI MARCELO ALBERTO
+Documento:	12976868
+CUIL/CUIT/CDI:	20129768682
+Es Cuenta Corriente:	No
+
+worm3333 - litocosta
+clave frances: 5415
+
+tarjeta debito 
+ 3636 y CER  (creo)
+-------------------------------
+
+
+claves Norma
+gmail: brilloindumentaria@gmail.com
+usuario: brillobsas41
+
+Mercado pago
+usuario:cano4807110
+clave: 2364am
+
+
+-----------------------------
+
+Para Portal Montironi, de ariel
+usuario: gaston.cirigliano
+password: /T3cnologia.225225
+
+
+
+
+cuenta para microsoft mfossati2021@outlook.com
+password: worm3030
+
+
+
+
+
+router oficina 192.168.56.254
+usuario: fox.rodolfo@gamil.com
+password: 
+
+wifi oficina: KansasCerealitas
+password = *fullMagia=050520/
+
+
+
+CLAVE jira: Sarandunga20/
+
+
+mail jira: mfossati@montironi.com
+password: Sarandunga20/
+
+
+Binance
+usuario:fossatimarcelo@gmail.com
+clave: Worm3030
+
+API KEY
+1Xktb9BeNl7faRGc76kMdjqJjU8AabEefi4QhAWomnPg78hQCNyFjPrjAevGb9pb
+
+Secret Key
+
+DvSDFJAHC150ByPJG8SvvRNADpfL8XW2pm3LXXJ3LDuDyYxaQLLiAR4ciEp5UcpG
+
+
+
+
+Stormgain
+
+usuario:fossatimarcelo@gmail.com
+clave: Worm3030_
+
+
+
+samsung account 
+usuario:fossatimarcelo@gmail.com
+clave: worm3030/
+
+
+github
+usuario:fossatimarcelo@gmail.com
+clave: worm3030g or worm3030G
+
+Priority Pass	
+usuario: fossati36
+clave: worm3030
+
+
+
+Fisdealer
+link: https://www.dsps.dealerconnection.com/
+usuario: m-fossa4
+password: Worm3030$Worm
+
+curso Udemy
+https://www.udemy.com/course/javascript-moderno-para-principiantes/learn/lecture/14077284?components=add_to_cart%2Cavailable_coupons%2Cbuy_button%2Cbuy_for_team%2Ccacheable_buy_button%2Ccacheable_deal_badge%2Ccacheable_discount_expiration%2Ccacheable_price_text%2Ccacheable_purchase_text%2Ccurated_for_ufb_notice_context%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Cincentives%2Cinstructor_links%2Clifetime_access_context%2Cmoney_back_guarantee%2Cprice_text%2Cpurchase_tabs_context%2Cpurchase%2Crecommendation%2Credeem_coupon%2Csidebar_container%2Cpurchase_body_container&utm_campaign=email&utm_medium=email&utm_source=sendgrid.com#overview
+
+usuario:fox.rodolfo@gmail.com
+clave:SaRandunga2022
+
+---------------
+WIFI Fibertel casa
+WIFI 638
+contraseña: 0041297686
+
+
+--------------------
+Infoauto Montironi credenciale de produccion
+
+Usuario: mmontironi@montironi.com
+Contraseña: cq7MHVCRrmsp63Qw
+
